@@ -1,5 +1,7 @@
 # ZhuaTech PeopleDetect｜知华科技隐私优先人员区域计数
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech PeopleDetect 是上海如静知华信息科技有限公司开发的独立图像人员检测案例。项目聚焦公共区域的匿名人数统计、容量利用率和分级告警，默认不做人脸识别、不推断人员身份、不保存原始画面。
 
 [知华科技官网](https://www.zhuatech.cn/) · `cn.zhuatech.peopledetect` · `POST /api/peopledetect/analyze`
